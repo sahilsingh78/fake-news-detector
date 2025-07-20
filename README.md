@@ -91,14 +91,6 @@ npm start
 
 Visit the app at: `http://localhost:3000`
 
----
-
-## 📸 Screenshots
-
-> Add screenshots here using markdown syntax:
-```
-![Screenshot](path/to/screenshot.png)
-```
 
 ---
 
