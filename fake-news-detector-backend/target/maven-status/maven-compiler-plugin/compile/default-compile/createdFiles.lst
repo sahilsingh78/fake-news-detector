@@ -1,0 +1,4 @@
+com\sahil\fakenews\controller\PredictionController.class
+com\sahil\fakenews\FakeNewsDetectorApplication.class
+com\sahil\fakenews\controller\FakeNewsController.class
+com\sahil\fakenews\service\FakeNewsService.class
